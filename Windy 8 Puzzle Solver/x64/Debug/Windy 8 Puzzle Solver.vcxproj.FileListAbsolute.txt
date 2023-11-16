@@ -1,0 +1,3 @@
+C:\Users\JWoods\source\repos\Windy 8 Puzzle Solver\x64\Debug\Windy 8 Puzzle Solver.exe
+C:\Users\JXEli\Downloads\Program 1-20231115T024653Z-001\Program 1\Windy 8 Puzzle Solver\x64\Debug\Windy 8 Puzzle Solver.exe
+C:\Users\JXEli\Documents\GitHub\Windy-8-Puzzle-Solver\Windy 8 Puzzle Solver\x64\Debug\Windy 8 Puzzle Solver.exe
